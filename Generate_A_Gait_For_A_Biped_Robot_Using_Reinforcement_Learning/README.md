@@ -21,3 +21,7 @@ pip install -r requirement.txt
 !cd Research/Real_Time_Motion_Control_Of_A_Humanoid_Robot_Using_Deep_Learning/
 !pip install -r colab_requirement.txt
 ```
+
+## References
+* [github](https://github.com/pybox2d/pybox2d/blob/master/INSTALL.md)
+* [stackoverflow](https://stackoverflow.com/questions/50037674/attributeerror-module-box2d-has-no-attribute-rand-limit-swigconstant)
