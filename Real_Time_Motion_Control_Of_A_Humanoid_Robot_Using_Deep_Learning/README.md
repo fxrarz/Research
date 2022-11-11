@@ -1,8 +1,8 @@
 # Real-Time-Motion-Control-of-a-Humanoid-Robot-Using-Deep-Learning
 
-<h1 align="center">
+<div align="center">
  <img src="./Asset/banner.jpg" />
-</h1>
+</div>
 
 Capture the motion of a Human from a 2D image using Pose Estimation and reproduce the action in a Humanoid Robot using Deep Learning.
 
