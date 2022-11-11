@@ -1,5 +1,12 @@
 # Real-Time-Motion-Control-of-a-Humanoid-Robot-Using-Deep-Learning
-Capture the motion of a Human from a 2D image using Pose Estimation and reproduce the action in a Humanoid Robot using Deep Learning
+
+<h1 align="center">
+ <img src="./Asset/banner.jpg" />
+</h1>
+
+Capture the motion of a Human from a 2D image using Pose Estimation and reproduce the action in a Humanoid Robot using Deep Learning.
+
+Note: The repo currently has dataset creation and training code. For Controlling the humanoid ROS workspace is required. This is covered in a another repo.
 
 ### Demonstration Video
 * [Youtube Link](https://www.youtube.com/watch?v=UsmOGdB1qRQ)
